@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mpsutomo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 All about testing
+- 🌱 I’m currently working as QA Enginner
+- 💞️ Anything about Manual and Automation Testing
 - 📫 How to reach me mp.sutomo88@gmail.com
 
 <!---
